@@ -1,5 +1,5 @@
 body{
-	background: url(https://github.com/matiinve/Primera-web/blob/master/gh-pages/backbody4.jpg);
+	background: url(https://github.com/matiinve/Blog-papa/blob/gh-pages/backbody4.jpg);
 	background-size: cover;
 	background-position: center;
 	margin: 0px;
@@ -22,7 +22,7 @@ h1{
 
 #banner {
 		text-align: center;
-		background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(https://github.com/matiinve/Primera-web/blob/master/gh-pages/manos2.jpg);
+		background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(https://github.com/matiinve/Blog-papa/blob/gh-pages/manos2.jpg);
 		background-size: cover;
 		background-position: center;
 		padding: 100px;
